@@ -18,8 +18,8 @@
 - [ ] 日历支持创建待办，关联系统日历
 
 
-![预览图片](https://github.com/daejong123/cube-tiger/raw/master/1642905430383.png)
+![预览图片](https://github.com/daejong123/cube-tiger/raw/master/images/1642905430383.png)
 
-![预览图片](https://github.com/daejong123/cube-tiger/raw/master/1642905594962.png)
+![预览图片](https://github.com/daejong123/cube-tiger/raw/master/images/1642905594962.png)
 
-![预览图片](https://github.com/daejong123/cube-tiger/raw/master/1642905472942.png)
+![预览图片](https://github.com/daejong123/cube-tiger/raw/master/images/1642905472942.png)
