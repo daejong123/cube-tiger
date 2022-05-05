@@ -17,9 +17,15 @@
 - [x] 支持系统快捷键
 - [ ] 日历支持创建待办，关联系统日历
 
+## Preview
 
 ![预览图片](https://github.com/daejong123/cube-tiger/raw/master/images/1642905430383.png)
 
 ![预览图片](https://github.com/daejong123/cube-tiger/raw/master/images/1642905594962.png)
 
 ![预览图片](https://github.com/daejong123/cube-tiger/raw/master/images/1642905472942.png)
+
+## FAQ
+
+如果发现无法使用一键复制功能，可以尝试一下方案，先在系统 `安全性与隐私中`删掉`魔方`，然后再重新添加下魔方。
+![预览图片](https://github.com/daejong123/cube-tiger/raw/master/images/20220505-112252.png)
